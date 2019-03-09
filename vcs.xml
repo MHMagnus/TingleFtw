@@ -1,0 +1,17 @@
+<application>
+  <component name="GitRememberedInputs">
+    <option name="visitedUrls">
+      <list>
+        <UrlAndUserName>
+          <option name="url" value="http://github.itu.dk" />
+          <option name="userName" value="magm" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.itu.dk/magm/Tingle.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+      </list>
+    </option>
+    <option name="cloneParentDir" value="$USER_HOME$/AndroidStudioProjects" />
+  </component>
+</application>

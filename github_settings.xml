@@ -1,0 +1,7 @@
+<application>
+  <component name="GithubAccounts">
+    <account id="2c01f707-bda4-4354-aacb-ccbeda942894" name="magm">
+      <server host="github.itu.dk" />
+    </account>
+  </component>
+</application>
